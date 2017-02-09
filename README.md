@@ -1,5 +1,5 @@
 # helloworld-javafx-maven-plugin
-Exemplo simples de "Hello World" mostrando um projeto JavaFX e Maven, utilizando a bliblioteca JavaFX Maven Plugin
+Exemplo simples de "Hello World" desenvolvedo um projeto JavaFX e Maven, utilizando a bliblioteca JavaFX Maven Plugin
 
 Referências:
 
